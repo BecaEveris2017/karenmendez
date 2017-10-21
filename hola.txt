@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-1prueba
-=======
+
 prueba
 
 cambios
->>>>>>> 8e7406eacf5b2a7479e53890ad55033215d5b08b
+
+
+tercer cambio
